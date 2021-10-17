@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos <a href="https://www.carlosmarquez.ca/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Carlos <a href="https://www.carlosmarquez.ca/"></a>
 
 ## A Software Development Student at NAIT
 
