@@ -19,6 +19,6 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat)](https://www.debian.org/)
 [![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat)](https://www.nginx.com/)
 <!-- [![Python](https://img.shields.io/badge/&#8203;-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)](https://www.python.org/) -->
-<br>
+<!-- <br> -->
 
 <!-- [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosm3&show_icons=false)](https://github.com/carlosm3) -->
