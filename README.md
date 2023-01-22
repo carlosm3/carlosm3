@@ -23,6 +23,6 @@
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosm3&show_icons=true)](https://github.com/carlosm3)
 
-<br>
+<!-- <br> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosm3&layout=compact)](https://github.com/carlosm3)
