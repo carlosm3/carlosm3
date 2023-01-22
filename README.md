@@ -21,8 +21,4 @@
 <!-- [![Python](https://img.shields.io/badge/&#8203;-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)](https://www.python.org/) -->
 <br>
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosm3&show_icons=true)](https://github.com/carlosm3)
-
-<!-- <br> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosm3&layout=compact)](https://github.com/carlosm3)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosm3&show_icons=false)](https://github.com/carlosm3)
