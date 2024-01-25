@@ -1,9 +1,9 @@
 ## Hi there, I'm Carlos 👋
 <br>
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/en/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/csharp/)
